@@ -82,7 +82,6 @@ The automation doesn't wait for the user to return. A secondary **Cron-triggered
 
 ## ✍️ Author
 **Muneeb Ali Khan**
-- **GitHub:** [@Muneeb20019](https://github.com/Muneeb20019)
 - **LinkedIn:** [Muneeb Ali Khan](https://www.linkedin.com/in/muneeb-ali-khan-2a1675365)
 - **Live Demo:** [Click Here to View](https://codespaces-nextjs-478wvvn9h-muneebs-projects-405f38bf.vercel.app/)
 
